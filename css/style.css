@@ -416,7 +416,7 @@ label.error {
 }
 
 .text-primary {
-    color: #ffeb00 !important
+    color: #d3544a !important
 }
 
 .masked {
@@ -932,7 +932,7 @@ a.brand:focus {
 }
 
 .pagepiling .section {
-    background: #272727;
+    background: #2f5279;
     padding-top: 10.3rem;
     padding-bottom: 6rem
 }
@@ -985,7 +985,7 @@ a.brand:focus {
 
 .section-bg {
     position: absolute;
-    left: 45%;
+    left: 49%;
     top: 0;
     width: 55%;
     height: 100%;
@@ -1041,7 +1041,7 @@ a.brand:focus {
 
 .subtitle-top {
     line-height: 1.714;
-    margin-top: 0;
+    margin-top: 30px;
     margin-bottom: 2.8rem;
     letter-spacing: .1em
 }
@@ -1061,7 +1061,7 @@ a.brand:focus {
 }
 
 .display-2 {
-    font-size: 5.14rem;
+    font-size: 3.39rem;
     font-weight: 600;
     line-height: 1;
     letter-spacing: -.05em;
