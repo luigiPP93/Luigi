@@ -629,7 +629,7 @@ a.brand:focus {
     right: 0;
     width: 100%;
     z-index: 101;
-    background-color: #272727;
+    background-color: #40034f;
     -webkit-transform: translateX(100%);
     -ms-transform: translateX(100%);
     -o-transform: translateX(100%);
