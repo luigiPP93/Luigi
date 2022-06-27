@@ -416,7 +416,7 @@ label.error {
 }
 
 .text-primary {
-    color: #d3544a !important
+    color: #14b84f !important
 }
 
 .masked {
@@ -1163,7 +1163,7 @@ a.brand:focus {
     position: relative;
     margin: 1rem 0;
     padding: 1rem;
-    background: #272727;
+    background: #4d2f39b8;
     top: -.2rem
 }
 
